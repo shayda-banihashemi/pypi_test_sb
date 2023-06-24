@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: pypi-test-sb
+Version: 1.0.0
+Summary: Testing pypi upload
+Home-page: https://github.com/shayda-banihashemi/pypi_test_sb.git
+Author-email: shayda.banihashemi@gmail.com
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3 :: Only
+Description-Content-Type: text/markdown
